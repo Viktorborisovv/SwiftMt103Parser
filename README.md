@@ -91,22 +91,6 @@ Controller → Service → Parser → Repository → SQLite
 
 ---
 
-## 📌 Requirements Covered
-
-✔️ Web API built with ASP.NET Core  
-✔️ Accepts a file containing a SWIFT MT103 message  
-✔️ Reads and parses the MT103 message  
-✔️ Stores parsed fields in SQLite  
-✔️ Does not use a ready-made SWIFT parsing library  
-✔️ Provides Swagger documentation for testing  
-✔️ No Authorization and Authentication  
-✔️ SQLite database  
-✔️ SQLite communication without Entity Framework  
-✔️ Logging with NLog  
-✔️ Ready to be uploaded to GitHub  
-
----
-
 ## ⚙️ Getting Started
 
 ### 1️⃣ Prerequisites
